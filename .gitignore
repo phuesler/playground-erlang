@@ -1,4 +1,8 @@
 ebin/*
 *.beam
+*.so
 .DS_Store
 erl_crash.dump
+src/jiffy/deps
+src/jiffy/ebin
+src/jiffy/priv
